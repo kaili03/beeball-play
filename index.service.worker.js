@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793363890|3655397';
+const CACHE_VERSION = '1793364759|3993393';
 /** @type {string} */
 const CACHE_PREFIX = 'beeball-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
